@@ -1,0 +1,3 @@
+ hook.txt 
+this is my first file is hook.txt
+we can added to the staging area
